@@ -1,6 +1,9 @@
 # ![](https://qingchenyou-1301914189.cos.ap-beijing.myqcloud.com/this_32.png)NeuroSangSpider
 
-![image-20260109162010403](https://qingchenyou-1301914189.cos.ap-beijing.myqcloud.com/image-20260109162010403.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wyf7685-1302679584.cos.ap-shanghai.myqcloud.com/public/nss/preview-dark-v1.2.1.png">
+  <img alt="preview" src="https://wyf7685-1302679584.cos.ap-shanghai.myqcloud.com/public/nss/preview-light-v1.2.1.png">
+</picture>
 
 ## 项目简介
 
